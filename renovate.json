@@ -3,5 +3,9 @@
   "extends": [
     "config:base"
   ],
-  "semanticCommits": "enabled"
+  "semanticCommits": "enabled",
+  "major": {
+    "enabled": false
+  },
+  "versioning": "node"
 }
